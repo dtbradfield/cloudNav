@@ -1,0 +1,17 @@
+.left-half {
+  padding: 10%;
+}
+
+.right-half {
+  background-image: url('https://cloudnavigators.com/wp-content/uploads/2017/06/bg-6.jpg');
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 1300px) {
+  .hide-on-small {
+    display: none;
+  }
+}

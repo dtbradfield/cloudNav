@@ -1,0 +1,14 @@
+.landing-page {
+    background-image: url('https://cloudnavigators.com/wp-content/uploads/2016/06/hp1-service-bg.jpg');
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 1300px) {
+    .hide-on-small {
+      display: none;
+    }
+  }
