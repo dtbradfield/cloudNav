@@ -3,8 +3,9 @@
 }
 
 .right-half {
-  background-image: url('https://cloudnavigators.com/wp-content/uploads/2017/06/bg-6.jpg');
+  background-image: url('https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg');
   height: 800px;
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

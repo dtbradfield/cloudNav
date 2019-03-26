@@ -1,0 +1,12 @@
+.our-services {
+    background-image: url('https://cloudnavigators.com/wp-content/uploads/2016/06/hp1-port-title-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}
+
+.services-img {
+    height: 100px;
+    float: left;
+    padding: 0 20px 20px 0;
+}
