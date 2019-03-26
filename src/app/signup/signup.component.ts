@@ -6,10 +6,18 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./signup.component.css']
 })
 export class SignupComponent implements OnInit {
+  sending: boolean = false;
 
   constructor() { }
 
   ngOnInit() {
+  }
+
+  onSend() {
+    this.sending = true;
+    setInterval(() => {
+      this.sending = false;
+    }, 2000)
   }
 
 }

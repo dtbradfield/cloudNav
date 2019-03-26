@@ -1,0 +1,18 @@
+.landing-page {
+    background-image: url('https://cloudnavigators.com/wp-content/uploads/2017/06/bg-4.jpg');
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 1300px) {
+    .hide-on-small {
+      display: none;
+    }
+  }
+
+.signup {
+    padding-top: 8%;
+}
